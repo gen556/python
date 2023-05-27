@@ -1,2 +1,2 @@
 # python
-python資料價上傳測試
+python資料夾上傳測試
